@@ -1,3 +1,5 @@
+## Edited by lingyu with minor changes
+
 import sys
 
 def read_fasta(filename):
